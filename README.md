@@ -5,3 +5,5 @@ Instructions:
     Fix the broken client datafeed script in the repository by making the required adjustments to it.
     Generate a patch file of the changes you made
     Add unit tests in the test script in the repository.
+    
+ jpm_module_1.rar contains python scripts.
